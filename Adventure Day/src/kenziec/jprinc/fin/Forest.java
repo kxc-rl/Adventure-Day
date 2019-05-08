@@ -21,7 +21,7 @@ public class Forest {
         }
         return 0 ;
        
-   
+   //type whatever
 
     }
     public int DeepWoods(){
